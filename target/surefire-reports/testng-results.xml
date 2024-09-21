@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-21T14:52:08Z" name="Suite" finished-at="2024-09-21T14:52:13Z" duration-ms="4869">
+  <suite started-at="2024-09-21T14:53:09Z" name="Suite" finished-at="2024-09-21T14:53:14Z" duration-ms="5250">
     <groups>
     </groups>
-    <test started-at="2024-09-21T14:52:08Z" name="Test" finished-at="2024-09-21T14:52:13Z" duration-ms="4869">
+    <test started-at="2024-09-21T14:53:09Z" name="Test" finished-at="2024-09-21T14:53:14Z" duration-ms="5250">
       <class name="grid.TestRemote">
-        <test-method signature="googleTest()[pri:0, instance:grid.TestRemote@59e505b2]" started-at="2024-09-21T14:52:08Z" name="googleTest" finished-at="2024-09-21T14:52:13Z" duration-ms="4851" status="PASS">
+        <test-method signature="googleTest()[pri:0, instance:grid.TestRemote@748741cb]" started-at="2024-09-21T14:53:09Z" name="googleTest" finished-at="2024-09-21T14:53:14Z" duration-ms="5238" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- googleTest -->
