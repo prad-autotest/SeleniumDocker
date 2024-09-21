@@ -17,7 +17,7 @@ public class TestRemote {
 
 		FirefoxOptions opt = new FirefoxOptions();
 		
-		WebDriver driver = new RemoteWebDriver(new URL("http://3.110.224.240:4444/"),opt);
+		WebDriver driver = new RemoteWebDriver(new URL("http://13.126.27.58/"),opt);
 		driver.get("http://google.com");
 		driver.findElement(By.name("q")).sendKeys("Hello Grid !!!");
 		System.out.println(driver.getTitle());
